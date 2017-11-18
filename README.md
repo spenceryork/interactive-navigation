@@ -1,1 +1,3 @@
-# CSS-pseudo-class-exercise
+
+# interactive-navigation
+CSS 101 Exercise 2
