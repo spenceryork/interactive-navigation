@@ -1,0 +1,31 @@
+body {
+    background-color: lightgrey;
+}
+
+.navbar {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-content: flex-end;
+}
+
+.navitem {
+    border: 1px grey solid;
+}
+.navitem a {
+    text-decoration: none;
+    color: white;
+}
+
+#navitem1 a:hover {
+    color: black;
+}
+
+#navitem2 a:hover {
+    background-color: gold;
+}
+
+#navitem3 {
+    
+}
+
